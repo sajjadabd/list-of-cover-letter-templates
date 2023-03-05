@@ -1,0 +1,23 @@
+Cover Letter
+===
+Hello there! My name is Anyelo and I am a Venezuelan Ruby on Rails Developer with 4+ years of experience who loves coding and solving problems in a simple yet creative fashion. During my years of web development I have grown a strong passion for backend development which led me to a good understanding of its underlaying technologies. I love hacking the hell out of web apps and getting a grasp of cutting edge technologies in order to keep up with time and deliver the best user experience possible optimizing database queries.
+
+I'm a software developer enthusiastic of writing clean, elegant, efficient and accessible code in a functional framework using Rubocop's style guides, specialized in solving large-scale logical problems through code, also refactoring code for future project maintenance and scalability. Throughout my career as a software developer I have worked on large-scale projects using effective design patterns like Agile and SCRUM development methodologies.
+
+I have experience in relational databases like MySQL and PostgreSQL and non-relational like MongoDB in systems that handle parallel processes in the background (websockets, sidekiq, ActiveJob, crons) with some basic knowledge in Heroku, AWS3, Docker, Firebase and notions in Javascript frameworks such as VueJS and ReactJS and other modern Front-End technologies for optimal UI design for a comfortable UX using HTML5 (Haml), CSS3 (SASS) with Flex and Grid to build a responsive, elegant and optimized web application or web site.
+
+I am applying for this job because I feel I meet the necessary requirements and I am trained to efficiently solve all the logical problems and to cover all the technical needs that exist in this area. In addition, I personally have friends and family in Ireland who have told me how beautiful it is and this would be an excellent opportunity to meet that country, work and live there.
+
+### Projects I've worked on
+- **Weclin** Home Cleaning Services *(Since June 2019)* `Ruby on Rails` `ActiveAdmin` `JSON` `API Rest`
+- **Agropecuaria** Management and Control of Cattle *(January 2019 ~ June 2020)* `Ruby on Rails`
+- **Keppler Admin** Content Managment System *(January 2016 ~ December 2018)* `Ruby on Rails`
+
+**Note: For more detailed project descriptions please look them up on:** [Anyelo Petit (Web Portfolio and CV)](https://anyelopetit.github.io/personal-portfolio/portfolio.html)
+
+### Things I'd like to learn
+I would like to explore **Python** in the near future because of their functional approach and focus on scalability. Furthermore I'd like to gain a better understanding of **ReactJS**, a great library I've only gotten the chance to scratch the surface of though I think has great potential.
+
+### Where to find me
+- [Linkedin](https://linkedin.com/in/anyelopetit)
+- [Github](https://github.com/anyelopetit)

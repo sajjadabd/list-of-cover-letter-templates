@@ -1,0 +1,46 @@
+Cover Letter
+===
+My name is Ivo and I am an Italian agile software developer who loves coding and solving problems in a simple yet creative fashion. During my years of web development I have grown a strong passion for fronted development which led me to a good understanding of its underlaying technologies. I love hacking the hell out of web apps and getting a grasp of cutting edge technologies in order to keep up with time and deliver the best user experience possible.
+
+While user experience still plays a big role in what I enjoy doing, I've learnt how important it is to write stable yet maintainable and scalable backend solutions. Even though I started out with PHP, I soon naturally came closer to the NodeJS environment while still embracing more "elegant" technologies such as Ruby or Java either adopting frameworks or by implementing architectures from scratch.
+
+I discovered the Agile Manifesto and eXtreme Programming back while joining XPeppers in 2013 and I’ve tried my best to apply either values and principles ever since. I’m firmly convinced that human interactions and proactive collaborations are key in building great products and writing great software in general. In all the projects I have worked so far I’ve experienced the benefits of practices such as Pair Programming, Test Driven Development, Continuous Delivery and Infrastructure Automation.
+
+### Projects I've worked on
+- **Create-Net** SDN Controller *(Since May 2016)* `Java (Jersey)` `Docker`
+- **WeSchool** Organization Management Backoffice *(March 2016 ~ May 2016)* `PHP (Symfony)`
+- **Yonderbound** Travel Platform *(September 2015 ~ April 2016)* `AngularJS` `Java (Spring)` `Ruby on Rails` `Lotus`
+- **Phoenix** Payment Gateway *(March 2015 ~ July 2015)* `Java`
+- **Posso** Contract Placement Platform *(October 2014 ~ March 2015)* `AngularJS` `Ruby on Rails`
+- **Soundreef** Royalties Payment Hub *(June 2014 ~ September 2014)* `PHP` `MySQL` `Amazon RDS`
+- **TrentinoTv** Interactive TV App *(April 2014 ~ June 2014)* `AngularJS` `Cordova` `NodeJS`
+- **CMSite** Multistore eCommerce Platform *(March 2014 ~ June 2014)* `Ruby on Rails`
+- **Sevoda** Contract Placement Platform *(February 2014 ~ March 2014)* `NodeJS` `Jade`
+- **Sky** Magento Payment Plugin *(September 2013 ~ April 2014)* `PHP (Magento)`
+- **Createdinitalia** Merchant Backoffice *(September 2013 ~ January 2014)* `Java` `NodeJS`
+
+**Note: For more detailed project descriptions please look them up on linkedin.**
+
+### Courses I've held
+- **AngularJS** *(Milan - 2016)* `AngularJS` `ES6` `Ionic`
+- **Web Programming** *(Trento - 2015)* `HTML5` `CSS3` `ES6` `JSP`
+
+### Things I'd like to learn
+I would like to explore both **Elixir** and **Scala** in the near future because of their functional approach and focus on scalability. Furthermore I'd like to gain a better understanding of **ReactJS**, a great library I've only gotten the chance to scratch the surface of though I think has great potential.
+
+### What kind of books I read
+- [You Dont Know JS Series](https://github.com/getify/You-Dont-Know-JS) *by Simpson Kyle*
+- [Effective JavaScript](https://amzn.com/0321812182) *by Herman David*
+- [Programming Elixir](https://amzn.com/1937785580) *by Thomas Dave*
+- [Refactoring: Improving the Design of Existing Code](https://amzn.com/0201485672) *by Martin Fowler and Kent Beck*
+- [Test Driven Development: By Example](https://amzn.com/0321146530) *by Kent Beck*
+- [Clean Code](https://amzn.com/0132350882) *by Robert C. Martin*
+- [The Pragmatic Programmer](https://amzn.com/020161622X) *by Andrew Hunt and David Thomas*
+
+### Where to find me
+- [Linkedin](https://it.linkedin.com/in/ivoputzer)
+- [Github](https://github.com/ivoputzer)
+- [Npm](https://www.npmjs.com/~ivoputzer)
+- [Stackoverflow](http://stackoverflow.com/users/1086697/ivo)
+- [Twitter](https://twitter.com/ivoputzer)
+- [Google+](https://google.com/+ivoputzer)
