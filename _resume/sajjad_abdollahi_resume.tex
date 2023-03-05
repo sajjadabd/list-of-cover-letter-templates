@@ -1,0 +1,441 @@
+%-------------------------
+% Resume in Latex
+% Author : Sourabh Bajaj
+% License : MIT
+%------------------------
+
+\documentclass[A4,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+%\usepackage[calcwidth]{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\usepackage[T1]{fontenc}
+\usepackage[sfdefault]{roboto}
+
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+
+%\titleformat{\section}
+%  {\normalfont\fontfamily{phv}\fontsize{16}{19}\bfseries}%{\thesection}{1em}{}
+%\titleformat{\subsection}
+%  {\normalfont\fontfamily{phv}\fontsize{14}{17}\bfseries}%{\thesubsection}{1em}{}
+%\titleformat{\subsubsection}
+%  {\normalfont\fontfamily{phv}\fontsize{14}{17}\selectfont}%{\thesubsubsection}{1em}{}
+
+
+\titleformat{\subsection}
+  {\normalfont\fontfamily{phv} }{\thesubsection}{1em}{}%[\color{black}\titlerule \vspace{-5pt}]
+\titleformat{\subsubsection}
+  {\normalfont\fontfamily{phv}}{\thesubsubsection}{1em}{}
+
+
+
+%\titleformat{\section}[hang]{\Large\sffamily\bfseries}
+%{\color{carmine}\S$\,$\thesection}{0.5em}{\color{black}}
+%This creates a rule that matches the full page's width, rather than the title's
+%[\vspace{-1.5em}\rule{\textwidth}{0.2pt}] 
+
+
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\resumeProjectItem}[1]{
+  \item{
+    { #1 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\resumeItemAbout}[1]{
+  \item{
+    { #1 \vspace{-2pt}}
+  }
+}
+
+% Just in case someone needs a heading that does not need to be in a list
+\newcommand{\resumeHeading}[4]{
+    \begin{tabular*}{0.99\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+
+\newcommand{\resumeSkill}[1]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+
+
+\newcommand{\resumeSubSubheading}[2]{
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+
+
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{http://sjabd.ir}{\Large Sajjad Abdollahi}} & Mobile : \href{tel:+989381308994}{+989381308994}   \\
+ \href{https://www.sjabd.ir}{https://www.sjabd.ir}    &  Email : \href{mailto:mynameissajjad@gmail.com}{mynameissajjad@gmail.com}     \\
+\href{https://www.linkedin.com/in/sajjad-abdollahi}{https://www.linkedin.com/in/sajjad-abdollahi} & Github : \href{https://github.com/sajjadabd}{https://github.com/sajjadabd}  \\
+\end{tabular*}
+
+
+
+\vspace{20pt}
+
+
+\section{Summary}
+\vspace{10pt}
+My name is Sajjad Abdollahi from Iran , a developer with an experience of building 
+applications in agile environments, such as Scrum. 
+My experience involves building scalable server side web apps using frameworks like Laravel . 
+
+
+\begin{itemize}[label=$\circ$]
+\item  {More Than 10 Years of Experience in  Software \& Web Developement}
+\item {Architected and developed back-end and front-end for Online Shops.}
+\item{Acted as lead developer managing a team to write enterprise grade PHP Laravel code.}
+\item{Designed architecture of more than 12 high end applications.}
+\end{itemize}
+
+
+
+\vspace{-10pt}
+
+
+%--------TECHNICAL SKILLS------------
+\section{Technical Skills}
+  \vspace{10pt}
+  \begin{itemize}%[label=$\circ$]
+    \item{PHP , Laravel , Livewire }
+    \item{ Databases , MySQL , Sqlite , Tinker }
+    \item{ HTML ,  CSS , Tailwind  }
+    \item{ Javscript , Alpine  }
+    \item{ Git , Docker , Devops  }
+    %\item{ Object Oriented Programming ( OOP ) , Solid Principles , Design Patterns  }
+  \end{itemize}
+
+
+
+%--------SOFT SKILLS------------
+\section{Soft Skills}
+  \vspace{10pt}
+  \begin{itemize}%[label=$\circ$]
+    \item{Teamwork , Creativity , Communication , Leadership , Adaptability , Attention to detail  }
+    %\item{ Object Oriented Programming ( OOP ) , Solid Principles , Design Patterns  }
+  \end{itemize}
+
+
+
+\vspace{-10pt}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \vspace{10pt}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University Of Mazandaran}{Babolsar, Mazandaran, Iran}
+      {Bachelor of Software Engineering}{2010 -- 2013}
+
+    % \vspace{5pt}
+
+    % {
+    % Create housell web app for my presentation , it was web app that people can post their house information to sell them      , it was made by simple html , css , js , jquery and complete raw php and mysql ! at that time i dont know exactly what is framework and how it works but later when i learn what is design patterns , laravel , eloquent and many other technologies i understand that using these tools can help you build your apps so much faster
+    % }
+      
+      
+      
+    \resumeSubheading
+      {Azad University of Neka}{Neka, Mazandaran, Iran}
+      {Bachelor of Software Engineering}{2017 -- 2020}
+
+    \vspace{5pt}
+      
+    \begin{itemize}
+   \item the main project was about
+    watchman route problem
+    that
+    is about the smallest routing
+    path a watchman should go
+    to see all the space on the
+    room –
+    available on my github : \href{https://github.com/sajjadabd}{https://github.com/sajjadabd}
+    \end{itemize}
+      
+  \resumeSubHeadingListEnd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \vspace{10pt}
+    \resumeSubheading
+      {Online Shop}{Mazandaran, Iran}
+      {Backend Developer}{May 2018 - Present}
+       
+     \vspace{5pt}
+
+	{Laravel and Livewire are great pair for designing the architecture of the website that fully qualified for ajax behaviour and REST APIs }
+
+      \resumeItemListStart
+        \resumeProjectItem{developing well-organized, maintainable, object-oriented, unit-tested code}
+        \resumeProjectItem{developing highly scalable and composable RESTful APIs}
+        \resumeItem{MVC Architecture} {use models and controllers to handle the logics of the whole system} 
+         \resumeProjectItem{Maintenance of existing infrastructure}
+
+      \resumeItemListEnd
+      
+      \subsection*{Technologies}
+	\vspace{-10pt}
+	\resumeItemListStart
+	\resumeItem{Artisan}{use php artisan utility command to migrate database tables}
+      \resumeItem{Sanctum}{Authentication and authorization standards such as Sanctum, OAuth}
+      \resumeItem{Tailwindcss}{create beautiful user interface}
+	\resumeItem{Composer}{using composer to install third party packages}
+     \resumeItem{Notifications}
+          {Service for sending email, push and in-app notifications. Involved in features such as delivery time optimization, tracking, queuing and testing.}
+     \resumeItem{Eloquent}
+          {make models to have more readable and maintainable code , boost performance of scaling the application}
+   
+      \resumeItemListEnd
+
+     \vspace{-10pt}
+
+	\subsection*{Achievements}
+	\vspace{-10pt}
+	\resumeItemListStart
+        \resumeItem{In App Billing}{ Implementing money payments for the application }
+	\resumeItem{Authentication}{send sms to verfiy that the registration request is for right person}
+     \resumeProjectItem{Clean Code written}
+      \resumeItemListEnd
+      
+% --------Multiple Positions Heading------------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%------------------------------------------- 
+    
+     \vspace{5pt}
+ 
+    \resumeSubheading
+      {CRM Project}{Mazandaran, Iran}
+      {PHP Laravel Developer}{Jan 2016 - Oct 2018}
+      
+     \vspace{10pt}
+
+	{a System for organizing your interactions with your loved ones. a CRM for your friends , family and customers  }
+
+% , with the help of php artisan commands it is very simple to make the necessary tables you need to design your databse , Blade is bay far the best view engine i have ever worked with and it is the great for simple application front-end , absolutely php laravel tools are awesome to build custom look web app and impress your clients
+      
+      \resumeItemListStart
+        \resumeProjectItem
+          {Add and manage contacts and Define relationships between them}
+        \resumeProjectItem
+          {Upload documents and photos and add notes for a contact}
+
+      \resumeItemListEnd
+
+       \vspace{-10pt}
+      
+      \subsection*{Technologies}
+	\vspace{-10pt}
+	\resumeItemListStart
+        \resumeProjectItem{ \textbf{Blade} for template engine}
+        \resumeProjectItem{ \textbf{Validating request} sanitize and trim data to secure the server-side and database transactions}
+	\resumeProjectItem{Developed RESTful API for mobile applications and web applications using Laravel }
+	\resumeProjectItem{ use \textbf{job} and \textbf{queue} and schedule them to serve the light and fast server response}
+\resumeItem{Dev Environment}
+          {Developement environment based on docker , standardized and require the PHP and Laravel dependencies. manage the core libraries that are shared by others.}
+     \resumeItem{Laravel Testing}
+          {write unit and functional test to make sure page response status code is correct and each component is visible in their belong pages .}
+        \resumeItem{Database Seeding}
+          { with factories and seeding database it is easier to layout your website with ready json data that server response to your front-end}
+ \resumeItem{Livewire}
+          {add items to cart without reloading the web page , sync every action you do on the frond side with back-end of the same component on the server , it makes buying from online shop more joyful to the customer}
+      \resumeItemListEnd
+
+     \vspace{-10pt}
+ 
+	\subsection*{Achievements}
+	\vspace{-10pt}
+	\resumeItemListStart
+        \resumeProjectItem{ \textbf{GIT} as my version control system}
+        \resumeProjectItem{ \textbf{Laravel voyager} to make custom admin panel for management}
+	\resumeProjectItem{Writing custom PHP packages }
+      \resumeItemListEnd
+    
+    
+
+  \resumeSubHeadingListEnd
+
+
+
+
+%-----------PROJECTS-----------------
+%\section{Projects}
+   \resumeSubHeadingListStart
+    \resumeSubheading
+      {Chatbox}{Sari, Iran}
+      {Javascript Developer}{Feb 2020 - Apr 2021}
+
+     \vspace{10pt}
+     
+     { Chatbox is an online Messaging App Written in Node.Js with Express Framework works perfectly sending and recieving messages across the internet }
+
+
+\begin{comment}
+	 \subsection*{Technologies}
+	\vspace{-10pt}
+	\resumeItemListStart
+        \resumeProjectItem{ \textbf{React Navigation} for Transfer between pages}
+        \resumeProjectItem{Redux for theming and storing global variables}
+        \resumeProjectItem{ \textbf{Axios} for sending ajax requests}
+	\resumeProjectItem{Style components for design custom components}
+	\resumeProjectItem{Sequelize for database modeling and creation}
+	\resumeProjectItem{ \textbf{Passport} for admin authentication}
+	
+      \resumeItemListEnd
+
+
+
+   \subsection*{Achievements}
+	\vspace{-10pt}
+	\resumeItemListStart
+       \resumeProjectItem{ability for users to sign up with their phone number}
+        \resumeProjectItem{create my own Latex to Json Converter}
+        \resumeProjectItem{Add thousand Items in Database with json ?le uploading}
+      \resumeItemListEnd
+\end{comment}
+   \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+%\section{Projects}
+%  \vspace{10pt}
+%  \resumeSubHeadingListStart
+ %   \resumeSubItem{QuantSoftware Toolkit}
+%      {Open source python library for financial data analysis and machine learning for finance.}
+%    \resumeSubItem{Github Visualization}
+%      {Data Visualization of Git Log data using D3 to analyze project trends over time.}
+%    \resumeSubItem{Recommendation System}
+%      {Music and Movie recommender systems using collaborative filtering on public datasets.}
+%    \resumeSubItem{Mac Setup}
+%      {Book that gives step by step instructions on setting up developer environment on Mac OS.}
+%  \resumeSubHeadingListEnd
+
+
+
+%-----------SKILLS-----------------
+%\section{Skills}
+%  \resumeSubHeadingListStart
+%    \resumeSkill{PHP}
+%    \resumeSkill{Laravel}
+%  \resumeSubHeadingListEnd
+
+
+
+
+
+
+
+
+
+
+
+
+%-------------------------------------------
+\end{document}
