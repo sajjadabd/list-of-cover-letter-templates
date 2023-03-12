@@ -1,0 +1,1106 @@
+
+=======================================
+https://www.knowledgehut.com/blog/web-development/backend-developer-resume
+
+
+
+
+** SQL queries for the system's high-load components were optimized, which increased website responsiveness and cut database expenditures by 20%. 
+
+** technologies :
+languages used in front-end web development: HTML, CSS, JavaScript, and Typescript 
+
+languages for back-end programming: Python, PHP, Java, and C# 
+Back-End Framework: Spring Framework and ASP.NET Core 
+
+
+databases: MySQL, Oracle, and MSSQL 
+
+
+Version management: TSF, Git 
+
+
+
+
+Highlight your most pertinent abilities, qualities, and experiences in backend developer resume summary while limiting the comprehensive overview to a few succinct phrases. Align your professional knowledge with your strongest skills. In the recruiting sector, for instance, a resume sample for a backend engineer with 10 years of expertise in responsive website development and maintenance would be appropriate. 
+
+You can find a number of resumes on our site including backend developer resume examples. 
+
+
+
+** Use Action Words to Strengthen your resume
+
+Action verbs and action words are interchangeable in resumes. In a functional resume, these terms or phrases work best for conveying accomplishments, professional experience, and skill sets. Using resumes action verbs makes you stand out from other applicants and captures the recruiter's attention. 
+
+Advocated, developed, finished, demonstrated, planned, enabled, estimated, expedited, fixed, established, investigated, amalgamated, managed, operated, revamped, tested, transformed, utilized, updated are a few examples of strong action words for a resume. 
+
+This page includes many categories of résumé action words: 
+
+Team Player Resume Action Words "Leadership" Synonyms "Willing to take responsibility For" Power Words "Communication" 
+
+
+
+** Write a Backend Developer Cover Letter
+
+Businesses no longer ask for cover letters, but some employers still request for cover letters. Additionally, the email you send to the hiring team to apply serves as a cover letter. 
+
+You may get an employer's attention with a compelling backend developer cover letter, increasing your chances of getting a job interview. Knowing the proper structure and information to employ can help you write a cover letter that will help you land the job. Use our simple cover letter generator to start writing your own by looking at our ideal Backend Developer cover letter sample. 
+
+Always keep in mind to refer back to the requirements specified in the job description of the position you're applying for while creating a Backend Developer cover letter. To demonstrate to potential employers why you are the best applicant for the position and stand out from the competition, emphasize your most noteworthy or unique qualifications. 
+
+
+
+
+
+
+=================================
+https://craftmycv.com/resume-examples/backend-developer
+
+
+
+
+
+Backend Developer Resume Example With Content Sample
+
+Back End Developers maintain and test any existing back end element. That is to ensure all elements and as fast as possible. They also should have a good knowledge of data compliance and security since data storage also falls under their remit. The usual duties of a Back End Developer include AQ testing, creating and maintaining website applications, writing quality codes, troubleshooting and debugging, managing different hosting environments, assessing the speed and efficiency of web applications, and keeping up-to-date with the latest technologies.
+
+With their good experience in the back end environment, they have knowledge of scripting languages like Java, C#, PHP, .Net, or Ruby, experience with Django, Laravel, Ruby, and Express frameworks, and skills in using Oracle, MySQL, and SQL database systems, SVN, CVS and Git version control, and REST and SOAP web services. Back End Developers possess attention to detail, good problem-solving skills, excellent communication, the ability to work with a team for personal qualities. Create your Backend Developer Resume by clicking on ''Use this Resume'' button.
+
+
+
+
+How to Effectively Write a Back End Developer Resume?
+
+
+When writing a professional resume, you can consider the following tips.
+
+Write a great summary for Back End Developer resume
+When describing your resume summary, make it simple yet powerful. Ensure to mention your professional identity, years of experience in the profession, areas of expertise and interest, and strongest area of expertise. You can include innovative, creative, skilled, inventive, proficient, adaptable, confident, cooperative, etc., for listing your identity’s professional qualities.
+
+Showcase the most relevant skills as a Back End Developer in your resume
+The skills section on your resume is a combination of hard and soft skills. These skills are qualifications focusing on a particular position and a company. Before listing your skills, scan through the company’s job description of the position. Then, determine the essential keywords that match your work experience and profile.
+
+Mention your accomplishments rather than the roles and responsibilities that match the Back End Developer position 
+By mentioning your accomplishments, it shows that you are a perfect fit for the position. You need to indicate your measurable results from the previous job and make sure that they are targeted at the specific Back End Developer job ad. Besides, avoid any irrelevant information.
+
+
+
+
+
+Summary
+
+Creative Back-End Developer with years of first-hand expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs and Front-End Development. Web Servers Administration specialist.
+
+
+
+
+Professional Experience
+Koss & Abshire Group
+Mar, 2016 – Jan, 2020
+Intermediate Back-End Developer
+
+    Trained, managed and provided guidance to junior software development staff.
+    Monitored performance tests on new and existing software for the purposes of correcting mistakes, isolating areas for improvement, and general debugging.
+    Ensured that security and quality assurance best practices are followed throughout the entire software development life cycle.
+    Gathered statistics and prepared and wrote reports on the status of the programming process for discussion with management and/or team members.
+    Developed an awareness of programming and design alternatives.
+
+
+
+
+
+
+O'Keefe Group
+Jun, 2011 – Jan, 2016
+Senior Back-End Developer
+
+    Conducted A/B testing related to the business-critical progressive web application resulting in 4x conversion and revenue grow.
+    Documented solution architecture for the high-volume online service reduced the TTM (time-to-market) by 49% ensuring high code maintainability.
+    Managed and lead the team of software developers worked on the critical progressive web application.
+
+
+
+
+
+
+
+Achievements
+2017
+Integrated Cloud Services
+Successfully integrated cloud services for RIA support and product fulfillment application, multilingual content services, and a pluggable payment provider architecture for pre‑authorization credit card payments.
+2013
+Developed a platform for e‑Commerce
+
+    The digital distribution used by 200,000 users worldwide, employing .NET and Azure cloud infrastructure.
+    Provided infrastructure and integration guidelines for load‑balancing and web farm deployment.
+    Designed and implemented a scalable back end for 10 business‑critical websites.
+
+
+
+
+
+
+
+In 3 years
+
+In the next 3 years I want to seek the position of Back-End Web Developer with YZI Tech being a self-motivated IT professional with huge knowledge in JavaScript, HTML, CSS, and mobile responsive web development, as well as strong skills and ability in writing clean and efficient code.
+
+
+
+
+
+==============================================
+https://www.cakeresume.com/resources/backend-developer-resume?locale=en
+
+
+
+The main duties and responsibilities of backend developers include:
+
+    Write and manage API resources that can work across devices (to be used by front-end developers)
+    Integrate elements created by front-end developers into the websites or applications
+    Manage the exchange of data and information between the server and users
+    
+    
+    
+Step 2: Choose the right format for your backend engineer resume
+
+
+There are 4 formats that you can use, they are:
+
+    **Chronological resume format
+    ﻿List your work experiences in chronologically reverse order, starting with your current or latest work experience first, and work your way backward along your work history timeline. This format is a safe choice if you are unsure of which specific format to use because of how universally used it is. However, because it’s so general, it might not be able to highlight your specialty.
+    **Functional resume format
+    ﻿In this format, your backend developer-related skills, qualifications, and achievements will be the highlight. Though it can be a risky format to use because of how focused it is on skills, it can work for entry-level backend developer resumes, student backend developer resumes, or backend developer CVs with gaps in between their careers.
+    **Combinational resume format
+    ﻿As its name suggests, this format combines both chronological resume format with the functional resume format. In a combinational resume format, you highlight your relevant skills first and add your employment experience second in a reverse-chronological format.
+    **Targeted resume format
+    ﻿A targeted resume format may be one of the most time-consuming resume formats to construct, as it requires you to tailor your backend engineer resume for every position you apply to. However, because of how tailored your backend developer CV is going to be, the results might be better and your resume will be more relevant to the job description.
+    
+    
+    
+    
+************************* Sample Resume ********************
+
+
+
+
+Sample Backend Developer Resume for Inspiration
+
+John Doe
+Email: john.doe@example.com
+Phone: 555-123-4567
+
+Summary
+John Doe is a Backend Developer with 10 years of experience in software development and project management. He has in-depth knowledge of programming languages and development tools, and his strong problem-solving and troubleshooting skills enable him to identify and solve technical problems quickly. He is also proficient in multiple languages and has certifications in programming and software development.
+
+Work Experience
+
+    Lead Backend Developer, ABC Technologies, Chicago, IL – 2016 to Present
+        Developed and maintained backend services for web and mobile applications
+        Created APIs and optimized database queries for better performance
+        Worked with the team to develop new features and enhance existing ones
+        Provided technical support and troubleshooting to other team members
+    Software Developer, XYZ Solutions, Chicago, IL – 2012 to 2016
+        Designed, developed, and tested back-end systems for web applications
+        Debugged and optimized existing code for better performance
+        Implemented new features and functionalities based on customer requirements
+        Provided technical support to clients and maintained documentation
+
+Education
+B.S. in Computer Science, University of Chicago, IL – 2010
+
+Skills
+
+    Programming Languages: Java, Python, JavaScript, C++
+    Development Tools: Git, SVN, Eclipse, IntelliJ
+    Databases: MySQL, MongoDB, Oracle
+
+Certifications
+
+    Certified Java Developer, Oracle – 2011
+    Certified Software Developer, Microsoft – 2012
+
+Languages
+English (fluent), Spanish (conversational) 
+
+
+
+**********************************************************
+
+
+********************* Sample Resume ******************
+ 
+
+ 
+
+Senior Backend Developer
+01/2017 - PRESENT
+Boston, MA
+
+    Build infrastructure, toolset and deployment pipeline to support API development
+    Embedding with other technical teams to support them in learning how to develop and maintain their own APIs
+    Collaborate closely with other engineers and become a valued member of an autonomous, cross- functional team
+    Design and develop robust services in coordination with frontend developers and produce well-tested, high quality code
+    Work directly with the business to implement features and understand use cases
+    Architect solutions to business and technical problems that use current technologies
+    Build pragmatic software solutions where features are quickly delivered without sacrificing code quality
+    Design and develop unit tests that provide 100% coverage of your code
+
+
+
+
+
+
+Backend Developer
+10/2013 - 10/2016
+New York, NY
+
+    Advise solutions during product management feature definition, weighing in technical limitations
+    Be ready to learn and adapt to new technologies in a fast paced cloud environment
+    Contribute to design and development of Backend and API’s
+    Contribute to functional definition of customer requirements
+    Meeting with the customer to discuss requirement
+    Contribute to the technical design and development APIs with performance and scalability in mind
+    Research, suggest and implement new solutions in performance of backend services
+
+
+
+
+
+
+
+Junior Backend Developer
+10/2009 - 05/2013
+Chicago, IL
+
+    Develop cutting-edge technologies to improve Xylem’s software offering
+    Lead initiatives for improvement of development processes and business opportunities for your team’s product and the company as a whole by impacting multiple products across the business
+    Identify, foster, and proactively help colleagues to grow professionally, taking a significant role in onboarding new team members
+    Advocate a collaborative working environment – make “my ideas” into “our ideas”
+    Work in agile cross-functional teams while assuring deadlines and high code quality standards
+    Contribute to the technical design and development of microservices with low-latency, high-availability, performance and scalability in mind
+    Guarantee services continuous deployment ability through a continuous integration workflow
+    Research, suggest and implement new solutions in performance and scalability improvement of backend services
+    Develop clean and maintainable services based on product management and Front-end requirements while keeping in mind RESTful API design guidelines
+
+
+
+
+
+
+
+
+Professional Skills
+
+    Frontend skills: Javascript, HTML5, CSS programming skills
+    Strong problem solving skills and proven team player
+    Self-motivated with demonstrated investigative skills and ability to prioritize and multi-task
+    Proven Azure experience with a strong understanding of cloud storage, caching, messaging services and NoSQL technologies
+    We are looking for someone with 2-8 years of experience in software development using relevant skills
+    Excellent organisational skills, including the ability to work in a fast-paced environment and across multiple large-scale projects
+    Strong technical skills, knowledge in ABAP programming language is considered as an advantage
+
+
+
+
+
+
+
+
+
+
+Experience For Junior Backend Developer Resume
+
+    Experience in developing and operating micro services
+    Experience building REST web services, with Spring
+    Experience building JPA data access layers, with Spring and Hibernate
+    Good understanding of unit and functional testing (JUNIT/QUNIT)
+    Experience in working with Machine Learning frameworks such as: TensorFlow or scikit-learn
+    Experience in designing and creating high performance and secure z/OS applications
+    Experience in designing and creating server-side automated test cases for z/OS applications
+    Solid understanding of up-to-date front-end technologies (Javascript, modern JS frameworks, CSS)
+    Experience of working with high availability RESTful APIs and other HTTP services
+
+
+
+
+
+
+Experience For Web Backend Developer Resume
+
+    Technical Writing experience (nice to have)
+    Experience in financial industry, with exposure to wealth management, Trust and private banking
+    Experience with several development methodologies, including SDL and Agile
+    Ensures all code has been unit tested prior to QA, including interfaces with other systems
+    Presents implementation approach to peers and manager prior to coding an implementation
+    Significant experience with many of the following
+    Strong understanding of REST API endpoint development
+    Excellent communication, influencing, and stakeholder management
+    Good understanding on the software design principles
+
+
+
+
+
+
+
+Experience For Lead Backend Developer Resume
+
+    Experience building solutions on the cloud public/private
+    Strong focus on Test Driven and Behavior Driven Development (TDD/BDD) using XCTest
+    Interest in or experience with paired programming
+    Experience working with agile development, Scrum or Kanban
+    Strong understanding of RESTful and SOAP web services
+    Professional programming experience
+    Experience in working on a high-load website, build on top of SOA
+    Experience developing software solutions in an enterprise environment
+
+
+
+
+
+
+
+
+
+Skills For Senior Backend Developer Resume
+
+    Good communication skills, proactivemindset and capacity to learn and work independently
+    Fluent English, good communication and collaboration skills in distributed international teams
+    Strong skills in .NET Core; Python would be a nice-to-have
+    Excellent communication skills and ability to work patiently with users
+    Proven experience in incorporating automated testing into the Development project (e.g. Unit Testing/Test Complete)
+    We are looking for highly motivated and experienced Java Developers who are strong in developing RESTful and SOAP services
+    Proficiency in one or more of the following developer skills: Java, Swift, SQL, Oracle, Spring boot
+
+
+
+
+
+
+
+
+Skills For Junior Backend Developer Resume
+
+    SAP HANA and ABAP programming skills welcome
+    Proven experience in leading projects from design to production
+    Prior experience in developing complex applications with Node.js
+    History of effectively communicating with geographically dispersed teams
+    Improve yours and your peers knowledge and skills in development and programming methodologies
+    Strong knowledge and experience with microservice, creating RESTful web services and API
+    Overall experience. 3+ years’ experience in enterprise level applications using Java
+    Code best practices and code review skills
+    6 – 8 years of experience with large scale software development experience
+
+
+
+
+
+
+
+==============================================================
+
+https://www.qwikresume.com/resume-samples/backend-developer/
+
+
+
+Description :
+
+        Database designed and developed for website career stage.
+        Data modeled tables and their relationships.
+        Developed stored procedures to prepopulate dropdown lists.
+        Developed User Registration Web Page employing HTML5 and PHP to implement Resume upload with dropdown menus, checkboxes, Radio Buttons, Text Areas, and other input controls.
+        Unit tested each component of resume application.
+        Worked with phpMyAdmin tool Yahoo web hosting platform.
+        Cleaned up existing data duplication and inconsistencies, with automation where possible.
+        
+        
+
+    
+Description :
+
+        Entered system was based on MVC architecture implemented using the Spring MVC framework.
+        Involved in DB design.
+        Wrote SQL scripts to create DB tables.
+        Generated Hibernate Entities and JPA repositories.
+        Wrote HQL's when needed.
+        Developed the Rest Services.
+        Deployed applications to servers.
+        
+        
+        
+        
+        
+Description :
+
+        Built a website that beautifully populates data sent by the app to the MySQL database.
+        Visualized in an Open Street Heatmap which helps us understand bike traffic in Oregon.
+        Built various front-end and backend prototypes and then converted them into real websites.
+        Did graphic designs and made flyers, logos, and banners.
+        Used PHP, JS, MySQL, Bootstrap Google Maps APIs, Open Streep Map, and Android SDK.
+        Involved in the design, analysis, development, testing, deployment, and support phase of the application.
+        Checked statistical tests and results for appropriate use and accuracy
+        
+        
+        
+        
+        
+        
+        
+        
+Description :
+
+        Developed custom NoSQL database usage for organizing, maintaining, and polling API/data per hour, per day, per account.
+        Developed a custom filtering system for records per cycle to account for inaccuracies, miscataloging, and lack of structured data from API sources from over 200 independent accounts.
+        Designated 'Bloom' Status on API for the advancement of the use of Data.
+        Responsible for finding and having retail products removed from shelves of accounts due to testing being invalid and impossible.
+        Created an entirely new product line, created a new database system, learned No SQL, had medical items removed for flawed specifications/testing, allowed competitive pricing analysis faster than any tool previous.
+        Used Programming, data analysis, No SQL, database programming, Ruby, BASH, FTP, etc.
+        Responsible for all phases of product development from conception to implementation.
+        
+        
+        
+        
+Description :
+
+        Took sole responsibility for architecting and implementing the backend which managed social media API querying, cached API data, maintained historical and real-time datasets, stored user app data, and calculated popularity and demographic metrics.
+        Strategized API querying methodologies for Facebook, Instagram, and Foursquare based on documentation, privacy settings, and API exploration.
+        Achieved 76% cross-validation accuracy for facial gender recognition of Instagram images by leveraging facial feature detection, facial orientation detection, and OpenCV fisher faces algorithm.
+        Enabled the extraction of social metric data from Instagram photos, which was the most concentrated source of demographic information.
+        Participated in the entire application lifecycle, focusing on coding and debugging.
+        Led developer for startup Peelur Inc.
+        Worked closely with the iOS team to implement mobile-related API calls.
+        
+        
+        
+        
+        
+Description :
+
+        Led Backend engineer in charge of API, eCommerce, and some mobile development.
+        Implemented full Platform API in NodeJS to support IoT devices of various classes using HapiJS, MongoDB, and Amazon Kinesis.
+        Wrote tests, implemented CI, performed load testing.
+        Re-implemented Platform API in Golang and PostgreSQL with Amazon Kinesis integration and integration with custom Websockets solution implemented in Golang.
+        Tested various IoT real-time video streaming solutions.
+        Implemented prototype using Wowza, AWS Cloudfront, and Video.JS player.
+        Used Software Architecture, Node.JS, Golang, Swift, PHP.
+        
+        
+        
+        
+        
+        
+        
+        
+Description :
+
+        Modified the main collection systems that were developed in ASP which and connected to an INFORMIX 7 database.
+        Responsible for adding the bill payments grouped in the same month.
+        Did a lot of work on processing PDF and how to extract information from them using PdfLib.
+        Reworked the account's creation application in collaboration with a UX Designer.
+        Remoted work environment so you can work from almost anywhere within the US time zones.
+        Worked closely with our web and mobile developers on the implementation of new product features
+        Collaborated on API design and architecture decisions.
+        
+        
+        
+        
+        
+        
+        
+Description :
+
+        Tested and modified JDBC API, helped accomplished data retrieval using K-nearest Neighbor (KNN).
+        Used Spark for the machine learning library and Cassandra for the data processing.
+        Built a search engine with crawler, index, page rank algorithm components in Python.
+        Crawled data from social websites and organized relationships into a social network for further research.
+        Diagnosed and troubleshoot backend issues in production.
+        Maintained integrations with external services, such as Stripe, Iterable, Mapbox, and our campground partners.
+        Updated and maintained existing API functionality.
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Description :
+
+        Designed, implemented, and maintained various back-end applications, libraries, and utilities on Ubuntu using C/C++.
+        Designed, implemented, and maintained the web-based administration user interface on Eclipse using the GWT framework.
+        Worked with QA and Support and write shell scripts or C/C++ command-line utilities to solve customer issues, including volume management, encryption, and decryption, RAID configuration, database modification, etc.
+        Fixed bugs and rewrite code of various components in the system, including web interface, backup, disaster recovery, routing, job scheduling, JBoss, PACS, HL7, etc.
+        Collaborated with developers and third-party vendors to integrate our product with others to meet customers' needs.
+        Worked with QA and Support to create and maintain several Wiki pages for internal uses.
+        Designed and implemented the entire database schema for the project in MySQL.
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Description :
+
+        Developed a feature for teachers to mark Greek characters/sentences on ancient handwritten scripts and add the corresponding English translation to the selection, which can later be retrieved by students for identifying letters and learning the meaning.
+        Helped lead backend development and engineering.
+        Designed and architected features from the ground up for a rapidly growing business.
+        Improved and contributed to current development and engineering practices.
+        Experienced with at least one database engine (ex. MySQL, PostgreSQL, MongoDB, Cassandra, etc.).
+        Diversed knowledge of other programming languages is desirable but not required.
+        Ensured any enhancements and requests are filled.
+        
+        
+        
+        
+        
+        
+        
+        
+************************************ 
+
+https://climbtheladder.com/senior-backend-developer-resume/
+
+
+
+******************************** Sample Resume *****************
+
+
+
+Mary Thompson
+Phoenix, AZ | (123) 456-7891 | mthompson@email.com
+Summary
+
+Seasoned backend developer with experience in a variety of industries, including FinTech, eCommerce, and SaaS. Proven ability to design and develop scalable web applications using Ruby on Rails, Node.js, and Elixir. Passionate about writing clean, maintainable code and working in a collaborative environment.
+
+
+
+Experience
+Company A, Senior Backend Developer
+Jan '17 – Current
+
+    Developed and maintained a microservices-based architecture with Node.js, Kubernetes, Docker, MySQL/PostgreSQL, Elasticsearch for an online education platform that serves over 1 million users daily.
+    Designed and implemented APIs to support the development of new features such as user authentication & authorization, course management system (CMS), student information system (SIS).
+    Built tools to automate deployment processes using Jenkins Pipelines and Kubernetes Jobs which reduced deployment time from hours to minutes.
+    Implemented automated testing frameworks like Jest and Cypress for backend code in order to ensure high quality standards are met before deploying changes live.
+    Collaborated closely with other developers on cross-functional teams including frontend engineers, designers, QA testers etc., through biweekly sprint planning meetings and standup meetings every morning at 9am EST.
+
+
+
+
+
+
+Company B, Senior Backend Developer
+Jan '12 – Dec '16
+
+    Worked with a team of 5 developers to create an e-commerce platform that could scale up to 100K daily visitors
+    Developed RESTful API endpoints using NodeJS and Express for data retrieval, validation, and manipulation
+    Created automated testing framework in Mocha + Chai + Sinon for unit tests and E2E UI tests
+    Improved performance by ~30% by optimizing frontend code (HTML5/CSS3/Javascript) using YUI Compressor
+    Reduced server load time by implementing caching mechanisms on the backend (~80 requests per second)
+
+
+
+
+
+Company C, Junior Backend Developer
+Jan '09 – Dec '11
+
+    Developed and maintained software using Java.
+    Created unit tests and assisted with integration testing.
+    Worked with the front-end developers to ensure smooth integration of the front-end and back-end systems.
+
+
+
+
+
+
+How to Write a Senior Backend Developer Resume
+
+Here’s how to write a resume of your own.
+Write Compelling Bullet Points
+
+The best way to make your resume stand out is to use specific examples and numbers. So rather than saying you “developed new features for web application,” you could say you “developed new features for web application, resulting in a 20% increase in user engagement over six-month period.”
+
+The second bullet point is much stronger because it provides specific details about what you did, how you did it, and the results of your work.
+
+
+
+
+
+Identify and Include Relevant Keywords
+
+When you apply for a senior backend developer role, your resume goes through an applicant tracking system (ATS). This program scans your resume for specific keywords related to the job. If your resume doesn’t have enough relevant keywords, the ATS might not forward it to a recruiter.
+
+One way to make sure your resume includes the right keywords is to read through the job posting and take note of the terms that are used most frequently. Then, add them into your resume where they’re most relevant.
+
+    Backend Development
+    Node.js
+    JavaScript
+    Amazon Web Services (AWS)
+    Express.js
+    AngularJS
+    Python (Programming Language)
+    RESTful Web Services
+    Web Development
+    Node.js Framework
+    MySQL
+    React.js
+    Git
+    jQuery
+    Laravel
+
+    Go (Programming Language)
+    React Native
+    ReactJS
+    NoSQL
+    Scrum
+    Microservices
+    Amazon S3
+    Docker Products
+    Java
+    Spring Framework
+    TypeScript
+    Kubernetes
+    PostgreSQL
+    Back-end Development
+    Cascading Style Sheets (CSS)
+
+
+
+
+
+
+
+
+
+Showcase Your Technical Skills
+
+As a senior backend developer, you will be responsible for developing and managing the server-side of web applications. This will require you to have a strong understanding of server-side programming languages (such as PHP, Ruby on Rails, and Node.js), as well as experience with database systems (such as MySQL, MongoDB, and Cassandra). Additionally, you will need to be familiar with web hosting and server administration.
+
+Including your technical skills prominently on your resume will show potential employers that you have the necessary skills and experience to be a successful backend developer.
+
+
+
+
+
+
+
+
+
+
+*********************************************
+
+The ATS algorithms
+
+We don’t have to tell you how algorithms work, but we do want to remind you that you need to impress the Applicant Tracking Application before your resume lands in human hands. Match the keywords and phrases mentioned in the job listing to your targeted resume to give you the best shot at slipping past the ATS.
+
+
+**************************************************
+
+
+
+
+
+         
+
+
+
+****************** Sample Resume *********************
+
+https://www.jobscan.co/resume-examples/computer-engineering/web-developer-resume
+
+
+
+
+RACHEL JOBSCAN
+
+Seattle, WA 98101 • (555) 555-1234 • racheljobscan@email.com • linkedin.com/in/rachel-jobscan
+
+WEB DEVELOPER
+
+Web Developer with more than 10 years experience enhancing user experience. Experienced in designing for several interfaces, as well as testing and debugging. Excels in optimizing the experience for users and improving workflows.
+
+
+
+
+
+Skills
+
+ASP.NET | JavaScript, jQuery, AJAX | Responsive Design | C# | SEO | Google Analytics | MVC | Microsoft SQL Server | Chrome, Firefox, Edge, IE | nopCommerce SW | Microsoft Visual Studio | Adobe Photoshop | AspDotNetStorefront SW | HTML, HTML5, CSS, CSS3 | Ecommerce | Engineering Management
+Work Experience
+Design USA, Seattle, WA • Web Developer/Designer, Engineering Support
+(07/2011) - Present
+
+Recruited to redesign the corporate web presence and initiate new online marketing strategies after successfully driving traffic and boosting sales via HDTV Labs’ website design. Increased visibility and credibility of OSI International, transforming both end-user and dealer websites to present a more professional and high-tech image using nopCommerce Ecommerce software. Responsible for all website decisions and implementation from design phase to launch and beyond.
+
+    Created themes, graphics and HTML for custom email campaigns and trade magazine ads. Interfaced directly with clients to resolve technical issues, promote sales, and provide information about OSI’s products and services.
+    Increased product visibility and promotion, quadrupling the number of products listed online, writing comprehensive technical descriptions, and highlighting key features to attract online customers.
+    Enhanced the visual appeal of the websites by shooting, Photoshopping and uploading over 1,300 product images to the sites, incorporating stunning visuals and integrating relevant audio and video components, all while employing cutting-edge design techniques.
+
+
+
+
+
+
+
+Electronics of America, Seattle, WA • Web Developer/Designer, Engineering and Marketing Support
+(01/2006 - 06/2011)
+
+Designed and developed the company website using AspDotNetStorefront Ecommerce software. Influenced product design decisions with core technology research and analysis. Initiated online marketing strategies and coordinated with national distributors to promote product sales.
+
+    Created additional corporate revenue stream by designing, developing and maintaining the company’s Ecommerce website with over 115 custom .aspx, .cs, and .html web pages. Developed custom xml web pages for downloading product specification sheets and manuals.
+    Set up online credit card transaction capability with the Authorize.Net payment gateway, Comodo SSL security software, and local commercial bank.
+    Integrated FedEx Ship Manager giving Ecommerce customers access to real-time shipping rates.
+
+Tech Communications, Inc., Seattle, WA • Senior Engineer
+(01/1995 - 12/2006)
+
+Achieved significant reduction in product development time through automated testing in support of all GSM Cellular Development and Cost Reduction programs.
+
+    Acted as liaison with multinational telecommunication corporations and international test houses to gain approvals for all cellular products, generating major global sales into new markets.
+    Saved millions of potentially lost unit sales, resolving a critical cellular phone software issue with the Chinese government that threatened shipment of all GPRS-capable cellular phones into China.
+
+
+
+
+
+
+
+
+
+
+
+Web developer resume skills and keywords
+
+What are recruiters looking for on a web developer candidate? If you take a close look at the job description, you’ll find it’s packed with web developer resume keywords. Using them will help you bypass the ATS filters and ultimately make it to the interview stage. Here are the most common ‌web developer resume skills that can lead to your impending success:
+Top Web Developer Resume Skills
+
+    HTML
+    CSS
+    Databases
+    Hosting
+    Libraries
+    Frameworks
+    Basic data types
+    Variables
+    WordPress
+    Wix
+    Jimdo
+    Data structures
+    Functions
+    Conditional statements
+    Loops
+    Code restoration
+    Code merging
+    Code review
+    User interaction
+    DOM
+    Object-oriented programming
+    JavaScript
+    Debugging
+    Code versioning
+    Graphic design
+    Atom
+    JSON
+    APIs
+    Routing
+    FTP
+    DB migration
+    Server health analytics
+    Analytics
+    SEO
+    Web site optimization
+    Teamwork
+    Collaboration
+    Communication
+    Time management
+    ‌Confidence
+    Project management
+    Accountability
+    Creativity
+    Critical thinking
+    Adaptability
+    Problem-solving
+    Empathy
+    Patience
+
+
+
+
+
+
+
+
+
+
+
+*********************************************************
+
+***************************************************
+
+https://www.jobscan.co/resume-examples/computer-engineering/web-developer-resume
+
+
+
+5 web developer resume writing tips
+
+Knowing how to highlight your web developer skills will boost your chances of getting hired. Follow these five tips to make your web developer abilities stand out on your resume.
+
+
+
+
+
+Tip # 1: Write a clear web developer professional profile
+
+This short section aims to catch the recruiter’s eye and make them want to keep on reading. Introduce yourself with a concise paragraph at the beginning of your web developer resume. Pinpoint what makes you different from the other applicants. You can include your strengths, the web development projects that make you the proudest, or any other piece of information that’s crucial to get you hired.
+
+Be brief and quickly flaunt your best web development skills and accomplishments. Remember, you still have one or two pages ahead to elaborate on this information, so don’t delve too much into it. Here’s your chance to give the HR department a snapshot of your main contributions to the field. Make it count and talk about that unique website you helped design, or mention your countless years of experience creating seamless apps.
+
+
+
+
+
+Tip # 2: Show your human side and don’t make your resume too technical
+
+Remember, web development isn’t always the HR department’s strongest suit. Trying to impress them by using complicated statements and extremely technical jargon might backfire on you. If there’s a simpler way to explain your qualifications, go for it, by all means. Doing so could be the fine line between hearing back from a potential employer or not.
+
+Mix things up a little bit and keep a balance between your soft and hard skills. If you can’t help using complicated terms to define a particular web development ability, describe the actions and ideas associated with it. Use a few words to expand on how that skill maybe helped you solve a coding problem or increased your team’s productivity. Keep your sentences short, and steer clear from using passive voice. Try adding action words and power verbs instead.
+
+
+
+
+
+
+Tip # 3: Be descriptive and provide tangible metrics on your web development accomplishments
+
+Some recruiters might love name-dropping. It’s okay if you use your resume as an opportunity to show off those projects you’ve developed for big companies and high-profile clients. However, if you really want to get on the HR department’s radar, talk in numbers. Using concrete, measurable data to define your web development achievements will make your resume more engaging.
+
+Speak the recruiter’s language. Offer appealing job descriptions that will make your web developer resume pop by including:
+
+    Milestones
+    Procedures
+    Relevant duties
+    Success stories
+    Team feats
+
+
+
+
+
+
+
+Tip # 4: Get rid of irrelevant or outdated information
+
+Be selective when writing your web developer resume. Remember that less is more and that you need to prioritize the information that makes more sense for a particular position.
+
+Most recruiters only spend about six seconds scanning through an applicant’s resume before deciding if they should move on to the next one. Cluttering yours with outdated coding courses and experience using unrelated software will decrease your chances of making a lasting impression.
+
+Do emphasize your recent projects and relevant training. Don’t go further back than 10–15 years when describing previous jobs.
+
+
+
+
+
+
+
+Tip # 5: Proofread—and then proofread again
+
+There’s nothing more off-putting to recruiters than finding poor grammar and typos all over a web developer’s resume. Believe it or not, it says a lot about you as an applicant. Your potential employer might think you’re not interested enough in the position or that you lack the attention to detail required for the role.
+
+Adding all the right information to your web developer resume is not enough if you don’t invest a few extra minutes ensuring your text is spot on. When in doubt, have someone else proofread the whole document for you and give you feedback. You don’t want lousy writing to get between you and your dream job.
+
+
+
+
+
+        
+        
+    
+
+
+=================================================
+
+
+https://enhancv.com/resume-examples/developer/
+
+
+
+
+
+According to the U.S. Bureau of Labor Statistics, Developer positions are at a 13% growth rate, which is faster than average. With that said, there are currently 199,400 jobs in the market right now. The total number of jobs is expected to increase by 25,500 to 224,900 in the period of 2020-30.
+
+What’s more, the median annual wage for the Developer jobs was $77,200 in May 2020. The lowest 10% earned less than $40,750, and the highest 10% more than $146,430.
+
+Our conclusion? The Developer job market is wide open for candidates.
+
+
+
+
+
+
+Top developer sections that make the best resume
+
+    Header
+    Professional summary
+    Experience (with numbers and results)
+    Relevant skills
+    Education
+    Certifications
+
+
+
+
+
+
+
+
+Developer experience section: checklist
+
+    List your positions in chronological or reverse-chronological order;
+    Go for 4-6 bullet points;
+    Add only relevant work experience;
+    Include information about the challenges you’ve faced, the actions you’ve taken, and the results you’ve achieved;
+    Use action verbs instead of filler words.
+
+
+
+
+Work Experience
+
+
+    Worked on 2 projects for the company: CMS and a broker website.
+    Learned to work with Ubuntu, Bash, Github.
+    Implemented new features and helped solve problems.
+    Collaborated with a small team to find solutions that will benefit the projects. 
+    
+    
+    
+    Introduced to SAP ERP Operations Module.
+    Created forms for mass printing in SAP Systems using Smart Forms.
+    Participated in a working environment of 40+ developers and consultants who cooperated towards a common goal.
+    
+    
+    
+    Component integration
+    Bug fixing
+    Low level memory implementation
+    HMI development
+    Task estimation
+    Software integration and version control
+    
+    
+    
+    Gathered technical information, wrote requirements and participated in design sessions
+    Estimated polar, thrust and power curves for a fixed wing aircraft
+    Modeled thermodynamic processes of a turboprop
+    Elaborated and gave technical presentations for costumers
+    
+    
+    
+    Back-end development of web applications built with PHP, MySQL and the Laravel Framework
+    Development of a small end-end JavaScript application with the MEAN stack
+    Crafting small WordPress projects and plugins
+    
+    
+    
+    Established and lead a team of 18 people; covering every key role in the early stages.
+    Main role - production and booking manager; image-maker and community leader.
+    Managed 500+ projects and events a year - in-house and/or with outside promoters and organizers.
+    Built a sustainable community in Sofia music scene; creating brand awareness and steady partnerships that turned club *MIXTAPE 5* into a factor in the music scene and the event management business in Bulgaria.
+    Lead a firm policy in restricting under-aged attendance.
+    Supported the local promoters and underground music communities by promoting the concept of buying pre-sale tickets and coming on time for gigs and events.
+    
+    
+    
+    
+        Conducted more than 40 training courses in Sofia, London, Varna, Ruse, Burgas, based on the method Suggestopedia - unlimited capacity of the human mind
+    Became a managing partner at Metareading in less than a year
+    Trained 250+ children in 15 programs, based on Suggestopedia, reading and learning skills, arts and other creative initiatives
+    Trained 800+ students and conducted 40 courses in “Metareading”, developing skills in photoreading, speed reading, memory excellence, creativity, personal development and motivation in a specific environment
+    
+    
+    
+        Built and designed the front and backend of the iOS app in only 4 months.
+    Maintaining a 30%+ retention rate, 16%+ purchase rate, and push notification engagement double that of the industry average.
+    Accepted into Winter 2014 batch of First Growth Ventures' SG VC accelerator.
+    Skills involved: Objective-C, Cocoa, Xcode, Javascript/Node.js, HTML, CSS, Version Control (GitHub), 3rd party RESTful APIs (eBay, Amazon, etc), Growth Engineering, and Fundraising.
+    
+    
+    
+    *********************************
+    
+    The ultimate developer skills section checklist:
+
+    Balance between all kinds of hard skills – technical, analytical, etc.
+    When it comes to technical skills, match them to the job description;
+    Add keywords present in the job advert to pass ATS;
+    Don’t forget to list transferable skills such as communication, teamwork, work ethic, and presentation skills.
+
+   
+    
+
+
+********************************************
+
+Job-winning developer resume summary checklist:
+
+    Mention your total years of experience in the field;
+    Highlight one or two of your top achievements;
+    Avoid getting into too much detail – you’ll do that in the experience section;
+    Focus on short sentences that are easy to read and add value to your application.
+
+
+########################################
+
+Resume summary formula:
+Resume Summary Formula: [Adjective] [job title] with [number] years of experience in [industry], a proven ability to [relevant, measurable skills], and a strong background in [relevant context of your work experience] seeks a position as [the job title you’re applying for].
+
+
+
+#####################################
+
+
+
+Education section checklist:
+
+    What? Where? What’s the result? Answer these questions when mentioning education and courses on your resume;
+    Give preference to courses and degrees that are relevant to the job position;
+    Be honest! Some recruiters love checking with colleges and universities to see if you’ve really been enrolled in them;
+    Share more about certifications that have helped you turn into a professional, and mention the bodies that have issued them.
+
+
+
+##################################
+
+
+
+
+PRO TIP
+
+If you feel that you don’t have high chances in a particular company, due to lack of relevant experience, then you can still consider using a creative layout. That might help you get noticed and invited for an interview, as most of the other applicants will have boring resume designs.
+
+
+****************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
