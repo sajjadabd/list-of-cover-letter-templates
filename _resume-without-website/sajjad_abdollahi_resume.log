@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.11)  12 MAR 2023 08:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.11)  12 MAR 2023 08:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -457,7 +457,7 @@ Package rerunfilecheck Info: File `sajjad_abdollahi_resume.out' has not changed
 Here is how much of TeX's memory you used:
  11339 strings out of 478268
  183130 string characters out of 5850345
- 492726 words of memory out of 5000000
+ 493726 words of memory out of 5000000
  29384 multiletter control sequences out of 15000+600000
  505430 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -469,7 +469,7 @@ type1/google/roboto/Roboto-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/goo
 gle/roboto/Roboto-Italic.pfb><c:/texlive/2022/texmf-dist/fonts/type1/google/rob
 oto/Roboto-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb>
-Output written on sajjad_abdollahi_resume.pdf (2 pages, 85465 bytes).
+Output written on sajjad_abdollahi_resume.pdf (2 pages, 85522 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
