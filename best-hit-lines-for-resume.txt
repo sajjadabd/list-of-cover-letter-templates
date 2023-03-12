@@ -75,6 +75,7 @@ How to Effectively Write a Back End Developer Resume?
 When writing a professional resume, you can consider the following tips.
 
 Write a great summary for Back End Developer resume
+
 When describing your resume summary, make it simple yet powerful. Ensure to mention your professional identity, years of experience in the profession, areas of expertise and interest, and strongest area of expertise. You can include innovative, creative, skilled, inventive, proficient, adaptable, confident, cooperative, etc., for listing your identity’s professional qualities.
 
 Showcase the most relevant skills as a Back End Developer in your resume
@@ -167,13 +168,13 @@ Step 2: Choose the right format for your backend engineer resume
 
 There are 4 formats that you can use, they are:
 
-    **Chronological resume format
+    ** Chronological resume format
     ﻿List your work experiences in chronologically reverse order, starting with your current or latest work experience first, and work your way backward along your work history timeline. This format is a safe choice if you are unsure of which specific format to use because of how universally used it is. However, because it’s so general, it might not be able to highlight your specialty.
-    **Functional resume format
+    ** Functional resume format
     ﻿In this format, your backend developer-related skills, qualifications, and achievements will be the highlight. Though it can be a risky format to use because of how focused it is on skills, it can work for entry-level backend developer resumes, student backend developer resumes, or backend developer CVs with gaps in between their careers.
-    **Combinational resume format
+    ** Combinational resume format
     ﻿As its name suggests, this format combines both chronological resume format with the functional resume format. In a combinational resume format, you highlight your relevant skills first and add your employment experience second in a reverse-chronological format.
-    **Targeted resume format
+    ** Targeted resume format
     ﻿A targeted resume format may be one of the most time-consuming resume formats to construct, as it requires you to tailor your backend engineer resume for every position you apply to. However, because of how tailored your backend developer CV is going to be, the results might be better and your resume will be more relevant to the job description.
     
     
